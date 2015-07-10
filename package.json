@@ -1,0 +1,19 @@
+{
+  "name": "winston-graphite",
+  "version": "1.0.0",
+  "description": "Graphite transport layer for graphite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "tools",
+    "graphite"
+  ],
+  "author": "Picsart",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^1.0.1"
+  }
+}
