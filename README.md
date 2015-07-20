@@ -2,7 +2,7 @@
 Graphite transport for NodeJS winston logging library
 
 ## Installation
-``` npm install winston-graphite ```
+``` npm install PicsArt/winston-graphite ```
 
 A [Graphite TCP][0] transport for [winston][1].
 
