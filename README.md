@@ -1,6 +1,9 @@
 # winston-graphite
 Graphite transport for NodeJS winston logging library
 
+[![Build Status](https://travis-ci.org/PicsArt/winston-graphite.png?branch=master)](https://travis-ci.org/PicsArt/winston-graphite)
+
+
 ## Installation
 ``` npm install winston-graphite ```
 
