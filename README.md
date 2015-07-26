@@ -33,7 +33,7 @@ A [Graphite TCP][0] transport for [winston][1].
     
   // or  
   
-  winston.info('mymetric', {value: 100, timestamp: new Date()});
+  winston.info('mymetric', {value: 100, timestamp: 1435708800});
 ```
 
 ### Performance
