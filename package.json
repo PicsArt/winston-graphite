@@ -4,7 +4,7 @@
   "description": "Graphite transport layer for winston logging library",
   "main": "./lib/winston-graphite-tcp.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "keywords": [
     "logging",
