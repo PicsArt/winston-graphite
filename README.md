@@ -28,12 +28,12 @@ A [Graphite TCP][0] transport for [winston][1].
   });
   
   winston.info(
-        'mymetric 100'
+        'mymetric.category_1 100'
     );
     
   // or  
   
-  winston.info('mymetric', {value: 100, timestamp: 1435708800});
+  winston.info('mymetric.category_1', {value: 100, timestamp: 1435708800});
 ```
 
 ### Performance
