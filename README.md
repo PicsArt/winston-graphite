@@ -26,6 +26,14 @@ A [Graphite TCP][0] transport for [winston][1].
     port: 2003,
     host: '127.0.0.1'
   });
+  
+  winston.info(
+        'mymetric 100'
+    );
+    
+  // or  
+  
+  winston.info('mymetric', {value: 100, timestamp: new Date()});
 ```
 
 ### Performance
