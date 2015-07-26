@@ -1,6 +1,6 @@
 {
   "name": "winston-graphite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Graphite transport layer for winston logging library",
   "main": "./lib/winston-graphite-tcp.js",
   "scripts": {
