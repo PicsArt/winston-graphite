@@ -1,7 +1,7 @@
 {
   "name": "winston-graphite",
-  "version": "1.0.0",
-  "description": "Graphite transport layer for graphite",
+  "version": "1.0.2",
+  "description": "Graphite transport layer for winston logging library",
   "main": "./lib/winston-graphite-tcp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
