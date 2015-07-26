@@ -28,6 +28,12 @@ A [Graphite TCP][0] transport for [winston][1].
   });
 ```
 
+### Performance
+It currenlty works on our infrastructure, and processes about 500K datapoints per minute
+[![Sample Graphic](http://cdn48.picsart.com/175591406001201.png?r1024x1024)](http://cdn48.picsart.com/175591406001201.png?r1024x1024)
+
+
+
 #### License: MIT
 
 See LICENSE for the full license text.
