@@ -9,7 +9,8 @@
   "keywords": [
     "logging",
     "tools",
-    "graphite"
+    "graphite",
+    "winston"	
   ],
   "repository": {
     "type": "git",
