@@ -17,7 +17,7 @@
     "url": "https://github.com/PicsArt/winston-graphite.git"
   },
   "author": "Harut Martirosyan, Aram Mkrtchyan",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "winston": ">=0.7.3"
   }
